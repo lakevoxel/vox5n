@@ -2,7 +2,7 @@
 making a custom forum engine will be VERY FUN (not really xdlo)
 
 -------
-subscribe here for updates: <a href="https://www.youtube.com/channel/UCMnG3eA5QcSgIPsavuW4ubA">
-<img src="https://img.shields.io/youtube/channel/subscribers/UCMnG3eA5QcSgIPsavuW4ubA?style=social">
+subscribe here for updates: <a href="https://www.youtube.com/channel/UCRMo72s1dbkBkexU1a0X0jw">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCRMo72s1dbkBkexU1a0X0jw?style=social">
 </a>
 
