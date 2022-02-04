@@ -1,7 +1,8 @@
-# vox5n
-i dont know what the fuck this is honestly
+<h1> vox5n </h1>
+making a custom forum engine will be VERY FUN (not really xdlo)
 
-maybe some kind of game? idfk
-maybe a community site with forum
-OR BOTH
-with custom forum engine for the site and if there's a game then using the noa voxel engine
+-------
+subscribe here for updates: <a href="https://www.youtube.com/channel/UCMnG3eA5QcSgIPsavuW4ubA">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCMnG3eA5QcSgIPsavuW4ubA?style=social">
+</a>
+
